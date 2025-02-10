@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define GitHub repository URL and the script URL
-GITHUB_REPO_URL="https://github.com/your-username/network-monitor/raw/main/network_monitor.sh"
+GITHUB_REPO_URL="https://github.com/rameshfelicity/network-monitor/blob/main/setup_from_github.sh"
 SCRIPT_PATH="$HOME/network_monitor.sh"
 
 # Download the script from GitHub
